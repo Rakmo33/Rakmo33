@@ -6,6 +6,18 @@
 
 I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
 
+## 🎓 Where I Sharpened My Craft
+- Master of Computer Science — University of California, Irvine, California, USA 🇺🇸
+- Bachelor of Engineering (IT) — Pune Institute Of Computer Technology, Pun,e India 🇮🇳
+
+## 💼 Where I’ve Built Things
+
+- Product Developer @ BMC Software
+- Full Stack Developer Intern @ Easypie App
+- Student Project Intern @ Sarvatra Technologies
+
+<!-- ## Stuff I'm proud of -->
+
 ## 🛠️ What's In My Repertoire
 
 <div align="center">
