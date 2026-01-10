@@ -72,3 +72,11 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 ![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?logo=sonarqubecloud&logoColor=fff)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
 </div>
+
+## ❤️ What I Love Beyond Code
+- 🐱 Cats (one-sided love)
+- ♕ Chess (strategy over speed)
+- 🏓 Table tennis (for fun, not trophies)
+- 🎹 Piano (learning & improvisation)
+- 🍳 Cooking (especially experimenting)
+- 🏋️ Gym (trusting the process)
