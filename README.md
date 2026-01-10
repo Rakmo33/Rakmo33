@@ -1,4 +1,4 @@
-![Omkar Dabir](https://komarev.com/ghpvc/?username=rakmo33&color=brightgreen)
+<!-- ![Omkar Dabir](https://komarev.com/ghpvc/?username=rakmo33&color=brightgreen) -->
 
 <h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
 
@@ -14,9 +14,10 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 
 ## 🎓 Where I Sharpened My Craft
 - Master of Computer Science - University of California, Irvine, CA 🇺🇸
-- Bachelor of Engineering (IT) - Pune Institute Of Computer Technology, Pune, India 🇮🇳
 
-## 💼 Where I’ve Built Experiences
+- Bachelor of Engineering (IT) - Pune Institute of Computer Technology, Pune, India 🇮🇳
+
+## 💼 Where I’ve Conquered Challenges 
 - Product Developer @ BMC Software
 - Full Stack Developer Intern @ Easypie App
 - Project Intern @ Sarvatra Technologies
@@ -78,7 +79,7 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
 </div>
 
-## ❤️ What I Love Beyond Code
+## ❤️ What I Champion Beyond Code
 - 🐱 Cats (unconditional love)
 - ♚♛ Chess (strategy over speed)
 - 🏓 Table tennis (for fun, not trophies)
@@ -86,7 +87,7 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 - 🍳 Cooking (especially experimenting)
 - 🏋️ Gym (trusting the process)
 
-## 🔗 Where Conversations Begin
+## 🔗 Where Alliances Are Forged
 Looking for a skilled software developer for your team? Let's connect & collaborate! 💪
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/Rakmo33/)
