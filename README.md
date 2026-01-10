@@ -1,21 +1,25 @@
 ![Omkar Dabir](https://komarev.com/ghpvc/?username=rakmo33&color=brightgreen)
 
-<h1>Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
+<h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
 
  I'm Omkar! </h1>
+<h4 align="center">
+I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
 
-### I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
+</br>
+</br>
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1N60TRSP2xoOnV_biHzaNy49DJcKW0n7P?usp=drive_link)
+</h4>
 
 ## 🎓 Where I Sharpened My Craft
-- Master of Computer Science - University of California, Irvine, California, USA 🇺🇸
+- Master of Computer Science - University of California, Irvine, CA 🇺🇸
 - Bachelor of Engineering (IT) - Pune Institute Of Computer Technology, Pune, India 🇮🇳
 
-## 💼 Where I’ve Built Things
+## 💼 Where I’ve Built Experiences
 - Product Developer @ BMC Software
 - Full Stack Developer Intern @ Easypie App
-- Student Project Intern @ Sarvatra Technologies
+- Project Intern @ Sarvatra Technologies
 
 <!-- ## Stuff I'm proud of -->
 
@@ -75,8 +79,8 @@
 </div>
 
 ## ❤️ What I Love Beyond Code
-- 🐱 Cats (one-sided love)
-- ♕ Chess (strategy over speed)
+- 🐱 Cats (unconditional love)
+- ♚♛ Chess (strategy over speed)
 - 🏓 Table tennis (for fun, not trophies)
 - 🎹 Piano (learning & improvisation)
 - 🍳 Cooking (especially experimenting)
