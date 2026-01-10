@@ -3,14 +3,14 @@
 <h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
 
  I'm Omkar! </h1>
-<h4 align="center">
+<h3 align="center">
 I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
 
 </br>
 </br>
 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1N60TRSP2xoOnV_biHzaNy49DJcKW0n7P?usp=drive_link)
-</h4>
+</h3>
 
 ## 🎓 Where I Sharpened My Craft
 - Master of Computer Science - University of California, Irvine, CA 🇺🇸
