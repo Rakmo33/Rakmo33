@@ -72,3 +72,21 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 ![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?logo=sonarqubecloud&logoColor=fff)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
 </div>
+
+## ❤️ What I Love Beyond Code
+- 🐱 Cats (one-sided love)
+- ♕ Chess (strategy over speed)
+- 🏓 Table tennis (for fun, not trophies)
+- 🎹 Piano (learning & improvisation)
+- 🍳 Cooking (especially experimenting)
+- 🏋️ Gym (trusting the process)
+
+## 🔗 Where Conversations Begin
+Looking for a skilled software developer for your team? Let's connect & collaborate! 💪
+
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1N60TRSP2xoOnV_biHzaNy49DJcKW0n7P?usp=drive_link)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/Rakmo33/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:odabir@uci.edu)
+
+<!-- Funny GIF -->
+![Coding](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhzOWF6Z2kxZ3lkMG94eW41eWkwNGgxaDAzOGgxbHhtb2M4YmlrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif)
