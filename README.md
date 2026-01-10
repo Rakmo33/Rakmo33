@@ -4,14 +4,15 @@
 
  I'm Omkar! </h1>
 
-I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
+### I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
+
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1N60TRSP2xoOnV_biHzaNy49DJcKW0n7P?usp=drive_link)
 
 ## 🎓 Where I Sharpened My Craft
-- Master of Computer Science — University of California, Irvine, California, USA 🇺🇸
-- Bachelor of Engineering (IT) — Pune Institute Of Computer Technology, Pun,e India 🇮🇳
+- Master of Computer Science - University of California, Irvine, California, USA 🇺🇸
+- Bachelor of Engineering (IT) - Pune Institute Of Computer Technology, Pune, India 🇮🇳
 
 ## 💼 Where I’ve Built Things
-
 - Product Developer @ BMC Software
 - Full Stack Developer Intern @ Easypie App
 - Student Project Intern @ Sarvatra Technologies
@@ -84,7 +85,6 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 ## 🔗 Where Conversations Begin
 Looking for a skilled software developer for your team? Let's connect & collaborate! 💪
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1N60TRSP2xoOnV_biHzaNy49DJcKW0n7P?usp=drive_link)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/Rakmo33/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:odabir@uci.edu)
 
