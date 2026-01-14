@@ -28,6 +28,7 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 Team-built full-stack platform handling authentication, payments, and 1000+ real users during a live tech fest.
 
 [Repo 🔗](https://github.com/Rakmo33/Credenz-Tech-Fest)
+
 ![Credenz Live](./assets/credenz.gif)
 
 
@@ -41,6 +42,7 @@ React · Node.js · Express · MongoDB · JWT · Axios · Nodemailer · NGINX
 Team-built static website for the PICT IEEE Student Branch, developed and deployed during college.
 
 [Live Demo 🔗](https://rakmo33.github.io/PISB-Website/) |  [Repo 🔗](https://github.com/Rakmo33/PISB-Website)
+
 ![PISB Website](./assets/pisb.gif)
 
 **Tech Stack**  
@@ -53,6 +55,7 @@ HTML · CSS · JavaScript · GoDaddy cPanel
 Solo full-stack trekking platform with geolocation, reviews, cloud-hosted media, and interactive maps.
 
 [Repo 🔗](https://github.com/Rakmo33/HikeHub-Blog-App)
+
 ![HikeHub](./assets/hikehub.gif)
 
 
@@ -66,6 +69,7 @@ Node.js · Express · MongoDB · JWT · Cloudinary · Mapbox / Geocoder · Boots
 Solo frontend Spotify-inspired UI focused on animations, carousels, and a custom music player.
 
 [Live Demo 🔗](https://rakmo33.github.io/musifyy/version3%20(javascript)/welcome.html) | [Repo 🔗](https://github.com/Rakmo33/Musifyy-Spotify-Clone)
+
 ![Musifyy](./assets/musifyy.gif)
 
 
@@ -73,6 +77,17 @@ Solo frontend Spotify-inspired UI focused on animations, carousels, and a custom
 React / Angular · TypeScript · HTML5 Audio API · CSS / SCSS · Swiper.js
 
 ---
+
+### 🎨 UI Clone Collection  
+A set of handcrafted, mobile-first responsive UI screens built purely with HTML, CSS, and JavaScript.
+
+[Repo 🔗](https://github.com/Rakmo33/UI-Clone-Collection)
+
+![UI Clones](./assets/clones.gif)
+
+**Tech Stack**  
+HTML5 · CSS3 · JavaScript · Flexbox · CSS Grid · Custom Animations
+
 
 
 ## 🛠️ What's In My Repertoire
