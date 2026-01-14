@@ -25,9 +25,11 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 ## ⚔️ What I’ve Deployed to the Battlefield
 
 ### 🎉 Credenz Tech Fest Website  
+Team-built full-stack platform handling authentication, payments, and 1000+ real users during a live tech fest.
+
+[Repo 🔗](https://github.com/Rakmo33/Credenz-Tech-Fest)
 ![Credenz Live](./assets/credenz.gif)
 
-Team-built full-stack platform handling authentication, payments, and 1000+ real users during a live tech fest.
 
 **Tech Stack**  
 React · Node.js · Express · MongoDB · JWT · Axios · Nodemailer · NGINX
@@ -35,10 +37,11 @@ React · Node.js · Express · MongoDB · JWT · Axios · Nodemailer · NGINX
 ---
 
 ### 🌐 PISB Student Club Website  
-#### [Live Demo 🔗](https://rakmo33.github.io/PISB-Website/)
-![PISB Website](./assets/pisb.gif)
 
 Team-built static website for the PICT IEEE Student Branch, developed and deployed during college.
+
+[Live Demo 🔗](https://rakmo33.github.io/PISB-Website/) |  [Repo 🔗](https://github.com/Rakmo33/PISB-Website)
+![PISB Website](./assets/pisb.gif)
 
 **Tech Stack**  
 HTML · CSS · JavaScript · GoDaddy cPanel
@@ -47,9 +50,11 @@ HTML · CSS · JavaScript · GoDaddy cPanel
 
 ### 🥾 HikeHub Full Stack Blog App
 
-[![HikeHub](./assets/hikehub.gif)](<PROJECT_LINK_HIKEHUB>)
-
 Solo full-stack trekking platform with geolocation, reviews, cloud-hosted media, and interactive maps.
+
+[Repo 🔗](https://github.com/Rakmo33/HikeHub-Blog-App)
+![HikeHub](./assets/hikehub.gif)
+
 
 **Tech Stack**  
 Node.js · Express · MongoDB · JWT · Cloudinary · Mapbox / Geocoder · Bootstrap
@@ -57,11 +62,12 @@ Node.js · Express · MongoDB · JWT · Cloudinary · Mapbox / Geocoder · Boots
 ---
 
 ### 🎧 Musifyy Spotify UI Clone
-#### [Live Demo 🔗](https://rakmo33.github.io/musifyy/version3%20(javascript)/welcome.html)
-
-[![Musifyy](./assets/musifyy.gif)](<PROJECT_LINK_MUSIFYY>)
 
 Solo frontend Spotify-inspired UI focused on animations, carousels, and a custom music player.
+
+[Live Demo 🔗](https://rakmo33.github.io/musifyy/version3%20(javascript)/welcome.html) | [Repo 🔗](https://github.com/Rakmo33/Musifyy-Spotify-Clone)
+![Musifyy](./assets/musifyy.gif)
+
 
 **Tech Stack**  
 React / Angular · TypeScript · HTML5 Audio API · CSS / SCSS · Swiper.js
