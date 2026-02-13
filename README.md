@@ -41,7 +41,7 @@ React · Node.js · Express · MongoDB · JWT · Axios · Nodemailer · NGINX
 
 Team-built static website for the PICT IEEE Student Branch, developed and deployed during college.
 
-[Live Demo 🔗](https://rakmo33.github.io/PISB-Website/) |  [Repo 🔗](https://github.com/Rakmo33/PISB-Website)
+[Live Demo 🔗](https://rakmo33.github.io/PISB-Website/) | [Official Website 🔗](https://pictieee.in/) | [Repo 🔗](https://github.com/Rakmo33/PISB-Website)
 
 ![PISB Website](./assets/pisb.gif)
 
@@ -68,7 +68,7 @@ Node.js · Express · MongoDB · JWT · Cloudinary · Mapbox / Geocoder · Boots
 
 Solo frontend Spotify-inspired UI focused on animations, carousels, and a custom music player.
 
-[Live Demo 🔗](https://rakmo33.github.io/musifyy/version3%20(javascript)/welcome.html) | [Repo 🔗](https://github.com/Rakmo33/Musifyy-Spotify-Clone)
+[Live Demo 🔗](https://rakmo33.github.io/Musifyy-Spotify-Clone/version3%20(javascript)/welcome.html) | [Repo 🔗](https://github.com/Rakmo33/Musifyy-Spotify-Clone)
 
 ![Musifyy](./assets/musifyy.gif)
 
