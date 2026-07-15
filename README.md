@@ -24,6 +24,19 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 
 ## ⚔️ What I’ve Deployed to the Battlefield
 
+### 🚀 ProtoPilot: AI Prototyping Platform
+
+End-to-end product prototyping platform especially designed for software Product Managers using AI agents: from idea to spec generation, live preview, deployment, and integration with GitHub / Jira / Confluence.
+
+[Live Demo 🔗](https://protopilot.onrender.com/) | [Repo 🔗](https://github.com/Rakmo33/ProtoPilot)
+
+![ProtoPilot Flow](./assets/protopilot_flow.gif)
+
+**Tech Stack**  
+Google ADK · LiteLLM · FastAPI · Python · Angular · Atlassian MCP Servers
+
+---
+
 ### 🎉 Credenz Tech Fest Website  
 Team-built full-stack platform handling authentication, payments, and 1000+ real users during a live tech fest.
 
