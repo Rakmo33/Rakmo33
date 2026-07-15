@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"  />
 
- I'm Omkar! </h1>
+ I'm Omkar Dabir! </h1>
 <h3 align="center">
 I'm a Full Stack Developer with 3+ years of expertise in crafting performant and user-centric web applications. As a tech enthusiast, I am passionate about learning and innovation in AI and modern web development. 🧑‍💻
 
