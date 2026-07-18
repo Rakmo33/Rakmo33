@@ -28,7 +28,7 @@ I'm a Full Stack Developer with 3+ years of expertise in crafting performant and
 
 End-to-end product prototyping platform especially designed for software Product Managers using AI agents: from idea to spec generation, live preview, deployment, and integration with GitHub / Jira / Confluence.
 
-[Live Demo 🔗](https://protopilot.onrender.com/) | [Repo 🔗](https://github.com/Rakmo33/ProtoPilot)
+[Live Demo 🔗](https://protopilot.onrender.com/) | [Repo 🔗](https://github.com/Team-OXYZen/ProtoPilot)
 
 ![ProtoPilot Flow](./assets/protopilot_flow.gif)
 
